@@ -2,13 +2,13 @@
 %global rlibdir  %{_libdir}/R/library
 
 Name:             R-%{packname}
-Version:          0.9.7
+Version:          1.0.1
 Release:          1
 Summary:          Descriptive statistics
 Group:            Sciences/Mathematics
 License:          GPL (>= 2)
 URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
-Source0:          http://cran.r-project.org/src/contrib/%{packname}_%{version}.tar.gz
+Source0:          http://cran.r-project.org/src/contrib/descr_1.0.1.tar.gz
 Requires:         R-xtable R-ENmisc 
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex 
 BuildRequires:    R-xtable R-ENmisc 
