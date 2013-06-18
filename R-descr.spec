@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          1.0.1
-Release:          1
+Release:          2
 Summary:          Descriptive statistics
 Group:            Sciences/Mathematics
 License:          GPL (>= 2)
