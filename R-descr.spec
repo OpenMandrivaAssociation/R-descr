@@ -7,7 +7,7 @@ Release:          2
 Summary:          Descriptive statistics
 Group:            Sciences/Mathematics
 License:          GPL (>= 2)
-URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
+URL:              https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/descr_1.0.1.tar.gz
 Requires:         R-xtable R-ENmisc 
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex 
